@@ -33,6 +33,4 @@ TeamPulse aims to bring these workflows into one simple platform.
 
 ## Project Status
 
-🚧 Under development ok
-so this is all about project!!
-done
+🚧 Under development
